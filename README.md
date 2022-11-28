@@ -7,6 +7,8 @@ This is a web based application developed for .......
 
 *Project Link* - https://fashionlifes.azurewebsites.net
 
+*Project Demo Video - https://youtu.be/jZ7zRVTYW_s
+
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
